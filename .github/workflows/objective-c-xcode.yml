@@ -26,4 +26,5 @@ jobs:
         env:
           scheme: ${{ 'default' }}
         run: |
+          cd mdcX
           xcodebuild -project mdcX.xcodeproj
