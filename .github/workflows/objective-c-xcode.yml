@@ -27,4 +27,4 @@ jobs:
           scheme: ${{ 'default' }}
         run: |
           cd mdcX
-          xcodebuild -project mdcX.xcodeproj
+          xcodebuild -project mdcX.xcodeproj -allowProvisioningUpdates
