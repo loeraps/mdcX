@@ -29,24 +29,6 @@
 		E1FB1F8B2DCE42D1005C602C /* mdcXUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = mdcXUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
 
-/* Begin PBXFileSystemSynchronizedRootGroup section */
-		E1FB1F762DCE42D0005C602C /* mdcX */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = mdcX;
-			sourceTree = "<group>";
-		};
-		E1FB1F842DCE42D1005C602C /* mdcXTests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = mdcXTests;
-			sourceTree = "<group>";
-		};
-		E1FB1F8E2DCE42D1005C602C /* mdcXUITests */ = {
-			isa = PBXFileSystemSynchronizedRootGroup;
-			path = mdcXUITests;
-			sourceTree = "<group>";
-		};
-/* End PBXFileSystemSynchronizedRootGroup section */
-
 /* Begin PBXFrameworksBuildPhase section */
 		E1FB1F712DCE42D0005C602C /* Frameworks */ = {
 			isa = PBXFrameworksBuildPhase;
